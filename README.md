@@ -1,19 +1,18 @@
 # Who am I
-<h2 align="center">👋 Hello there! I'm Dhruv Kulkarni</h2>
-<p align="center">
-  📍 Location: Surat, India<br>
-  📧 Email: dhruvkulkarni22@gmail.com
-</p>
 
-<h3 align="center">About me:</h3>
-<p align="center">
-  🎓 Bachelor of Technology at SVNIT, Surat<br>
-  🧠 Passionate Computer Enthusiast, interested in Computer Architecture for Machine Learning Algorithms.<br>
-  📚 Interested in Pursuing Higher Education<br>
-  🎓 High School: Cambridge College of Arts, Science and Commerce, Pune - Grade obtained: 93.33%<br>
-  🏫 Secondary School: Podar International School, Pimpri, Pune - Grade obtained: 95.8%<br>
-  🗓️ Expected Graduation: Dec, 2021 - 2025
-</p>
+## 👋 Hello there! I'm Dhruv Kulkarni
+
+- **Location:** Surat, India
+- **Email:** dhruvkulkarni22@gmail.com
+
+### About me:
+
+- 🎓 Bachelor of Technology at SVNIT, Surat
+- 🧠 Passionate Computer Enthusiast, interested in Computer Architecture for Machine Learning Algorithms.
+- 📚 Interested in Pursuing Higher Education
+- 🎓 High School: Cambridge College of Arts, Science and Commerce, Pune - Grade obtained: 93.33%
+- 🏫 Secondary School: Podar International School, Pimpri, Pune - Grade obtained: 95.8%
+- 🗓️ Expected Graduation: Dec, 2021 - 2025
 
 # My Philosophy
 
@@ -21,8 +20,8 @@
   <img src="Unknown.png" alt="Thoughts" width="300"/>
 </p>
 
-</p>
-<h1 align="center">My TechStack</h1>
+# My TechStack
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -33,4 +32,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
-<p align="center">Let's connect and explore the world of technology together! 🚀</p>
+Let's connect and explore the world of technology together! 🚀
