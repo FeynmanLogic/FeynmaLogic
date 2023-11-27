@@ -1,8 +1,8 @@
 
+# Who am I
 👋 **Hello there! I'm Dhruv Kulkarni**  
 📍 **Location:** Surat, India  
 📧 **Email:** dhruvkulkarni22@gmail.com  
-
 
 
 **About me:**
@@ -15,6 +15,13 @@
   - Grade obtained: 95.8%
 - 🗓️ Expected Graduation: Dec, 2021 - 2025
 
+# My Philosophy
+
+<p align="center">
+<img src="Unknown.png" alt="Thoughts" width="300"/>
+</p>
+
+</p>
 ## My TechStack
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
