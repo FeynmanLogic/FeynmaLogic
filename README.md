@@ -17,7 +17,7 @@
 # My Philosophy
 
 <p align="center">
-  <img src="Unknown-44.png" alt="Truth" width="300"/>
+  <img src="Unknown-4.jpeg" alt="Truth" width="300"/>
 </p>
 <p align="center">
   <img src="Unknown.png" alt="Thoughts" width="300"/>
