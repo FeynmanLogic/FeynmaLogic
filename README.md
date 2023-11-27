@@ -17,7 +17,7 @@
 # My Philosophy
 
 <p align="center">
-  <img src="Turing Quote.jpeg" alt="Truth" width="600"/>
+  <img src="Turing Quote.jpg" alt="Truth" width="600"/>
 </p>
 <p align="center">
   <img src="Unknown.png" alt="Thoughts" width="390"/>
