@@ -1,4 +1,3 @@
-# GitHub Bio
 
 👋 **Hello there! I'm Dhruv Kulkarni**  
 📍 **Location:** Surat, India  
