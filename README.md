@@ -17,9 +17,11 @@
 # My Philosophy
 
 <p align="center">
+  <img src="Unknown4.png" alt="Thoughts" width="300"/>
+</p>
+<p align="center">
   <img src="Unknown.png" alt="Thoughts" width="300"/>
 </p>
-
 # My TechStack
 
 <p align="center">
