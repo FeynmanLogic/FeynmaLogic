@@ -2,12 +2,9 @@
 
 👋 **Hello there! I'm Dhruv Kulkarni**  
 📍 **Location:** Surat, India  
-📱 **Phone:** +91 9552569610  
 📧 **Email:** dhruvkulkarni22@gmail.com  
-🔗 **LinkedIn:** [LinkedIn Profile](<LinkedIn_Profile_Link>)  
-💻 **GitHub:** [GitHub Profile](<GitHub_Profile_Link>)
 
-## Quote
+
 
 **About me:**
 - 🎓 Bachelor of Technology at SVNIT, Surat
